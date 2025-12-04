@@ -10,7 +10,7 @@
 
 ## Description
 
-FuelPHP is a fast, lightweight PHP 5.4+ framework. In an age where frameworks are a dime a dozen, we believe that FuelPHP will stand out in the crowd. It will do this by combining all the things you love about the great frameworks out there, while getting rid of the bad.
+FuelPHP is a fast, lightweight PHP 5.4+ framework. In an age where frameworks are a dilme a dozen, we believe that FuelPHP will stand out in the crowd. It will do this by combining all the things you love about the great frameworks out there, while getting rid of the bad.
 
 FuelPHP is fully PHP 7.3 compatible.
 
